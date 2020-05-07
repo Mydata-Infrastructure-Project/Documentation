@@ -1,10 +1,11 @@
-# Documentation
-Documentation about mydata reference implementation 
 ![alt text][logo]
 
 [logo]: https://github.com/MagnumOpuses/project-meta/blob/master/img/jobtechdev_black.png "JobTech dev logo"
 
 [A JobTech Project](https://www.jobtechdev.se)
+
+# Documentation
+Documentation about mydata reference implementation 
 
 ## Data without Borders
 
