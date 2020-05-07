@@ -7,10 +7,6 @@
 # MyData Infrastructure 
 Documentation about mydata reference implementation 
 
-## Data without Borders
-
-> **A Mydata reference implementation project**
-
 ## What do we want to do - and why?
 
 We aim to create an open source standard on giving and revoking consent while data-sharing/circulating from an individual point of view. The goal is to state a technical standard regarding consent and revoke that can be used by anyone.
