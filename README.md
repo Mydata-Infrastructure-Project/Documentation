@@ -4,7 +4,7 @@
 
 [A JobTech Project](https://www.jobtechdev.se)
 
-# Documentation
+# MyData Infrastructure 
 Documentation about mydata reference implementation 
 
 ## Data without Borders
