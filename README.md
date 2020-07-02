@@ -1,4 +1,4 @@
-[logo]: https://github.com/Mydata-Infrastructure-Project/Documentation/blob/master/img/mydata-instrastructure-project-logo.png "MyData Infrastructure Project logo"
+![MyData Infrastructure Project logotype](https://github.com/Mydata-Infrastructure-Project/Documentation/blob/master/img/mydata-instrastructure-project-logo.png)
 
 # MyData Infrastructure
 
