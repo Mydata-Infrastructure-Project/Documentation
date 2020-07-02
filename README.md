@@ -39,9 +39,3 @@ MyData is focused on consents because:
 - consents are the primary (but not the only) legislative framework that defines information processing from the human-centric perspective
 - the same consent management framework can also be used with minor modification for notifications and assignments
 - human and machine readable standardized consents unite technical data management systems, legislative frameworks, and the human perspective
-
-MyData is focused on consents because:
-
-- consents are the primary (but not the only) legislative framework that defines information processing from the human-centric perspective
-- the same consent management framework can also be used with minor modification for notifications and assignments
-- human and machine readable standardized consents unite technical data management systems, legislative frameworks, and the human perspective
